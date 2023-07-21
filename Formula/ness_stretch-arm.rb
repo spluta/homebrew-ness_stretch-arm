@@ -10,6 +10,6 @@ class NessStretch < Formula
 
   ness_stretch-arm64.tar.gz
   def install
-    bin.install "ness_stretch-arm64"
+    bin.install "ness_stretch-arm"
   end
 end
