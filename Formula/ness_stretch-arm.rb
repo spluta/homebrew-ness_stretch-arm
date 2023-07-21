@@ -9,6 +9,6 @@ class NessStretch < Formula
   version "0.4.3"
 
   def install
-    bin.install "ness_stretch-arm"
+    bin.install "ness_stretch"
   end
 end
