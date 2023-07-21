@@ -8,7 +8,6 @@ class NessStretch < Formula
   sha256 "96f602505dd6e3d3dafce02fd1e3484ed8a47dd8a4403d0eec0f0e8d42c25ce3"
   version "0.4.3"
 
-  ness_stretch-arm64.tar.gz
   def install
     bin.install "ness_stretch"
   end
